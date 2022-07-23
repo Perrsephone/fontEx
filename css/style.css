@@ -1,0 +1,133 @@
+body{
+	padding: 20px 30px;
+}
+a{
+	text-decoration: none;
+}
+.header-navigation{
+	margin-bottom: 23px;
+	display: inline-block;
+	margin-left: 50px;
+}
+.header-navigation li {
+	padding-bottom: 17px;
+	color: #3D58A6;
+	font-family: Mtavruli , fantasy;
+	font-size: 22px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+.header-navigation .active-page{
+	color: #EE4036;
+}
+footer img{
+	height: 30px;
+	width: auto;
+	margin-top: 31px;
+}
+.fb{
+	padding-right: 38px;
+	border-right: 1px solid #363E97;
+}
+.yt{
+	padding-left: 38px;
+}
+.date-number{
+	color: white;
+	background-color: #3D58A6;
+	padding: 5px;
+	display: inline-block;
+	font-size: 48px;
+	font-family: Mtavruli , fantasy;
+	margin-top: 73px;
+}
+.date-month{
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: Mtavruli , fantasy;
+	margin-top: 10px;
+}
+.text{
+	font-size: 16px;
+	display: inline-block;
+	width: 910px;
+	margin-left: 38px;
+	font-family: Arial;
+}
+.news-header{
+	margin: 30px 0px;
+	font-family: Mtavruli;
+	font-size: 20px;
+}
+.content img{
+	vertical-align: top;
+}
+.third-section{
+	margin-bottom: 66px;
+}
+.contact-header{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-bottom: 10px;
+	display: inline-block;
+	font-family: Mtavruli , fantasy;
+}
+.contact-main{
+	background-color:#E6E6E6 ;
+}
+.contact-section{
+	display: inline-block;
+	margin: 63px 97px;
+}
+.contact-section p{
+	font-size: 16px;
+	display: inline-block;
+	font-family: Mtavruli , fantasy;
+}
+.information{
+	width: 316px;
+	display: inline-block;
+	vertical-align: top;
+}
+.contact-section span{
+	color: #808080;
+}
+.contact-footer{
+	margin-top: 280px;
+}
+.main-article div{
+	background-color: #F2F2F2;
+	display: inline-block;
+	font-family: Roboto , fantasy;
+
+}
+.main-article div h4{
+	margin: 20px 20px;
+	width: 48%;
+	color: #3D58A6;
+	font-size: 22px;
+}
+.main-article div p{
+display: inline-block;
+font-size: 20px;
+width: 355px;
+margin-left: 60px;
+margin-bottom: 51px;
+color: #58595B;
+}
+.main-section h2{
+	margin-top: 120px;
+	margin-bottom: 40px;
+	font-size: 24px;
+	font-family: Roboto , fantasy;
+}
+.left-div{
+	margin-right: 45px;
+}
+.main-article div img{
+	margin-left: 38px;
+}
+.banner-img{
+	width: 100%;
+}
